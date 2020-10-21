@@ -1,0 +1,15 @@
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\bin\Debug\MebamTimer.exe.config
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\bin\Debug\MebamTimer.exe
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\bin\Debug\MebamTimer.pdb
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.csprojAssemblyReference.cache
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\App.g.cs
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer_MarkupCompile.cache
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer_MarkupCompile.lref
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MainWindow.baml
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.g.resources
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.Properties.Resources.resources
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.csproj.GenerateResource.cache
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.csproj.CoreCompileInputs.cache
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.exe
+C:\Users\Muti\Desktop\C# Projelerim\MebamTimer\MebamTimer\obj\Debug\MebamTimer.pdb

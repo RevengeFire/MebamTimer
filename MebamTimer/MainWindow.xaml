@@ -1,0 +1,24 @@
+﻿<Window x:Class="MebamTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MebamTimer"
+        mc:Ignorable="d"
+        Title="Mebam Timer" Height="347.686" Width="248.592" KeyDown="Window_KeyDown" Left="0" Top="0" ResizeMode="NoResize" Topmost="True" Icon="sand-clock.ico">
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="141*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="img/timer.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Label Content="Label" Margin="10,10,90.125,0" VerticalAlignment="Top"/>
+        <Label x:Name="timeLbl" Content="00:00:00" HorizontalAlignment="Center" Margin="51,0,38,0" VerticalAlignment="Top" FontSize="36" Grid.ColumnSpan="2" Width="154" FontFamily="Yu Gothic UI Light"/>
+        <Button x:Name="baslatBtn" Content="Başlat [F1]" HorizontalAlignment="Left" Margin="10,267,0,0" VerticalAlignment="Top" Width="80" Height="25" FontWeight="Bold" Opacity="0.8" BorderThickness="2" Click="baslatBtn_Click"/>
+        <Button x:Name="durdurBtn" Content="Durdur [F2]" HorizontalAlignment="Left" Margin="52,267,0,0" VerticalAlignment="Top" Width="80" Height="25" FontWeight="Bold" Opacity="0.8" BorderThickness="2" Grid.Column="1" Click="durdurBtn_Click"/>
+        <Label x:Name="alertLbl" Content="" HorizontalAlignment="Center" Margin="51,46,-9,0" VerticalAlignment="Top" RenderTransformOrigin="1.149,-0.116" Grid.ColumnSpan="2" Width="201" FontSize="16" Foreground="#FFCBC6C6"/>
+
+    </Grid>
+</Window>
